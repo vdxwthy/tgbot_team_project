@@ -1,0 +1,7 @@
+aiogram
+openai
+torch
+transformers
+requests
+python-dotenv
+aiohttp
