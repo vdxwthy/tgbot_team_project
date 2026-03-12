@@ -1,0 +1,12 @@
+aiogram
+python-dotenv
+requests
+transformers
+torch
+pandas
+jupyter
+scikit-learn
+openai
+matplotlib
+seaborn
+datasets

@@ -1,0 +1,8 @@
+.env
+__pycache__/
+**/__pycache__/
+models/genre_model/
+notebooks/results/
+*.pyc
+.vscode/
+.idea/
